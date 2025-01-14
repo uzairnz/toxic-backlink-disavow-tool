@@ -15,7 +15,7 @@ This Python tool helps website owners analyze and identify toxic backlinks and g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/disavow-tool.git
+   git clone https://github.com/uzairnz/disavow-tool.git
    cd disavow-tool
    ```
 2. Install dependencies:
